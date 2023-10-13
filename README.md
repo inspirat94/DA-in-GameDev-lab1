@@ -29,6 +29,7 @@
 Ход работы:
 
 
+![image](https://github.com/inspirat94/DA-in-GameDev-lab1/assets/147831419/1ea28201-eccb-4ffb-aa4a-c0ad30db77aa)
 
 
 ## Задание 2
