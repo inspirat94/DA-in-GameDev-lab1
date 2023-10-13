@@ -27,7 +27,7 @@
 ## Задание 1
 ### Написать программу Hello World на Python с запуском в Jupiter Notebook.
 Ход работы: 
-#Прежде всего был скачан дистрибутив Anaconda. Затем, используя ANACONDA.NAVIGATOR, был запущен инструмент Jupyter Notebook. Далее была создана папка под названием Helloworld, в которой, в свою очередь, был создан файл Untitled.ipynb. В файл я записал команду print('Hello World'), которая выводит надпись 'Hello World'.
+##Прежде всего был скачан дистрибутив Anaconda. Затем, используя ANACONDA.NAVIGATOR, был запущен инструмент Jupyter Notebook. Далее была создана папка под названием Helloworld, в которой, в свою очередь, был создан файл Untitled.ipynb. В файл я записал команду print('Hello World'), которая выводит надпись 'Hello World'.
 
 ![image](https://github.com/inspirat94/DA-in-GameDev-lab1/assets/147831419/1ea28201-eccb-4ffb-aa4a-c0ad30db77aa)
 
